@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSString *a = @"a";
     NSString *love = @"i love you";
+    NSString *c = @"i hate you";
 }
 
 
